@@ -38,7 +38,7 @@
 - Java 21
 - Spring Boot 4.1 (Spring Web, Spring Boot Starter Validation)
 - Thymeleaf - серверный рендеринг HTML
-- Maven (с Maven Wrapper - `mvnw` и `mvnw.cmd` добавлены)
+- Maven
 
 **Тестирование**
 - JUnit 5
