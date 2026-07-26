@@ -88,7 +88,7 @@ decrypt/
 ## Структура проекта
 
 ```
-DecryptorWeb/
+Cipher-Desk/
 ├── docs/                               — скриншот для README
 ├── src/
 │   ├── main/
